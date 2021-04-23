@@ -16,12 +16,16 @@ Course content
  -Processor: data path and control design, pipeline design, memory system, I / O design, parallel systems
 
 Student Learning Objectives
- -Use various metrics to calculate the performance of a computer system
- -Identify the addressing mode of instructions
- -Determine which hardware blocks and control lines are used for specific instructions
- -Analyze clock periods, performance, and instruction throughput of single-cycle, multi-cycle, and pipelined implementations of a simple instruction set
- -Detect pipeline hazards and identify possible solutions to those hazards
- -Show how cache design parameters affect cache hit rate
+-Use various metrics to calculate the performance of a computer system
+-Identify the addressing mode of instructions
+
+-Determine which hardware blocks and control lines are used for specific instructions
+
+-Analyze clock periods, performance, and instruction throughput of single-cycle, multi-cycle, and pipelined implementations of a simple instruction set
+
+-Detect pipeline hazards and identify possible solutions to those hazards
+
+-Show how cache design parameters affect cache hit rate
  -Map a virtual address into a physical address
  -Demonstrate how parallel programming and multi-core architectures can benefit/degrade system performance, depending on software applications.
  -CS/ECE572: Explore processor performance-cost trade-off quantitatively in a detailed simulator
